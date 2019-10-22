@@ -1,0 +1,3 @@
+D:\LaboratoryCodes\2019\docker2\docketTest\dockerTest2\obj\Debug\netcoreapp2.1\dockerTest2.csproj.CoreCompileInputs.cache
+D:\LaboratoryCodes\2019\docker2\docketTest\dockerTest2\obj\Debug\netcoreapp2.1\dockerTest2.AssemblyInfoInputs.cache
+D:\LaboratoryCodes\2019\docker2\docketTest\dockerTest2\obj\Debug\netcoreapp2.1\dockerTest2.AssemblyInfo.cs
